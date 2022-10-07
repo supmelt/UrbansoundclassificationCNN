@@ -1,10 +1,10 @@
 # UrbansoundclassificationCNN
 Audio classification
 Dataset preparing:
-https://github.com/supmelt/UrbansoundclassificationCNN/blob/main/UrbanSound8k_preparing_dataset.ipynb
+UrbanSound8k_preparing_dataset
 
 CNN1:
-https://github.com/supmelt/UrbansoundclassificationCNN/blob/main/training_and_testing_UrbanSound8K.ipynb
+training_and_testing_UrbanSound8K
 
 CNN2: 
-https://github.com/supmelt/UrbansoundclassificationCNN/blob/main/UrbanSoundClassification_draft.ipynb
+Final_USC_CNN
